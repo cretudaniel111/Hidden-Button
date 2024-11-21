@@ -1,0 +1,23 @@
+.card-body {
+    background-color: rgb(71, 91, 91);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+}
+
+.card-body2 {
+    background-color: aquamarine;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column; 
+    height: 100%; 
+    padding: 20px; 
+}
+
+#noInput {
+    margin-bottom: 10px;
+    background-color: rgb(242, 252, 252);
+    
+}
